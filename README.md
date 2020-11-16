@@ -250,6 +250,11 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) is the place of hope fo
 - [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/QwantResearch/qwantmaps/) - A map application, based on OpenStreetMap, that respects your privacy.
 - [Owntracks](https://owntracks.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/owntracks/android) - A privacy-respecting mobile app that allows you to keep track of your own location.
 - [Hauk](https://github.com/bilde2910/Hauk) - A fully open source, self-hosted location sharing service.
+- [OpenMapTiles Server](https://openmaptiles.com/server/) - Open-source OpenStreetMap vector tile server
+- [Pelias](https://github.com/pelias) - A geocoder powered completely by open data, available freely to everyone
+- [Who's On First](https://whosonfirst.org) - Free copyleft geographical database
+- [GeoNames](https://www.geonames.org) - Free worldwide geographical database of over 11 million places, under the Creative Commons License
+
 
 ## Voice Assistants
 
